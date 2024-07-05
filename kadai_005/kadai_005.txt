@@ -1,0 +1,13 @@
+   4 git init
+   5 git add .\hello_world.txt
+   6 git status
+   7 git commit
+   8 git status
+   9 git add
+  10 git add .\hello_world.txt
+  11 git status
+  12 git commit
+  13 git status
+  14 git add .
+  15 git status
+  16 git commit
