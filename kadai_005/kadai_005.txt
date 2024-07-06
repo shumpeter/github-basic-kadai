@@ -11,3 +11,21 @@
   14 git add .
   15 git status
   16 git commit
+
+--以下追記-
+PS C:\Users\staku\OneDrive\デスクトップ\SAMURAI_TERAKOYA\git_challenge> git log
+commit 8b1d96f92b9fade73a82da2983402246bea3bcb2 (HEAD -> main)
+Author: shumpeter <staku1214@gmail.com>
+Date:   Sat Jul 6 08:38:36 2024 +0900
+
+    日本語訳を追加
+
+commit 0baf7bda004d49b4ef2a55ca46ac47b5c0d3b8f8
+Author: shumpeter <XXXX@gmail.com>
+Date:   Sat Jul 6 08:33:49 2024 +0900
+
+    hello, world!を追加
+
+commit ebb5bae097faccb065b8bea4fd94d767c08ec3f7
+Author: shumpeter <XXXX@gmail.com>
+Date:   Sat Jul 6 08:23:09 2024 +0900
